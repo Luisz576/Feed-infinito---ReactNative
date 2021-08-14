@@ -1,0 +1,14 @@
+# GITIGNORE
+NewsApp/__tests__
+NewsApp/android
+NewsApp/ios
+NewsApp/node_modules
+NewsApp/package-lock.json
+NewsApp/.watchmanconfig
+NewsApp/.prettierrc.js
+NewsApp/.gitattributes
+NewsApp/.gitignore
+NewsApp/.flowconfig
+NewsApp/.eslintrc.js
+NewsApp/.buckconfig
+NewsApp/babel.config.js
